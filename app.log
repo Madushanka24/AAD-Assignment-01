@@ -1,0 +1,17 @@
+15:06:27.481 [http-nio-8081-exec-2] INFO  l.i.p.controller.OrderController -- Initializing OrderController with calling init method
+15:06:27.481 [http-nio-8081-exec-1] INFO  l.i.p.controller.CustomerController -- Initializing CustomerController with calling init method
+15:06:27.481 [http-nio-8081-exec-3] INFO  l.i.p.controller.ItemController -- Initializing ItemController with calling init method
+15:06:28.297 [http-nio-8081-exec-1] INFO  l.i.p.controller.CustomerController -- GET Request Without the Customer ID
+15:06:28.346 [http-nio-8081-exec-1] INFO  l.i.p.controller.CustomerController -- Get All Customers Successfully
+15:06:53.956 [http-nio-8081-exec-10] INFO  l.i.p.controller.CustomerController -- GET Request Without the Customer ID
+15:06:53.959 [http-nio-8081-exec-10] INFO  l.i.p.controller.CustomerController -- Get All Customers Successfully
+15:06:53.965 [http-nio-8081-exec-3] INFO  l.i.p.controller.CustomerController -- PATCH Request Received
+15:06:54.014 [http-nio-8081-exec-3] INFO  l.i.p.controller.CustomerController -- Customer updated successfully
+15:06:54.022 [http-nio-8081-exec-2] INFO  l.i.p.controller.CustomerController -- GET Request Without the Customer ID
+15:06:54.026 [http-nio-8081-exec-2] INFO  l.i.p.controller.CustomerController -- Get All Customers Successfully
+15:07:06.090 [http-nio-8081-exec-6] INFO  l.i.p.controller.CustomerController -- GET Request Without the Customer ID
+15:07:06.098 [http-nio-8081-exec-6] INFO  l.i.p.controller.CustomerController -- Get All Customers Successfully
+15:07:06.102 [http-nio-8081-exec-5] INFO  l.i.p.controller.CustomerController -- PATCH Request Received
+15:07:06.131 [http-nio-8081-exec-5] INFO  l.i.p.controller.CustomerController -- Customer updated successfully
+15:07:06.147 [http-nio-8081-exec-4] INFO  l.i.p.controller.CustomerController -- GET Request Without the Customer ID
+15:07:06.152 [http-nio-8081-exec-4] INFO  l.i.p.controller.CustomerController -- Get All Customers Successfully
